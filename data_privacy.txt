@@ -1,0 +1,301 @@
+## Data Privacy Information for ExampleCorp
+## Last Updated: 2024-09-05
+
+## “#” is used as a section tag.
+## “##” is used for descriptions or comments.
+
+# Data Collection
+## We collect the following types of data from our users:
+Data_Collected: Personal Information, Cookies, IP Address, Usage Data, Transaction Data
+
+## Personal Information: Includes names, email addresses, phone numbers, and mailing addresses provided by the user during account creation, purchase, or contact forms.
+## Cookies: We collect cookies to track session information, preferences, and for analytics purposes.
+## IP Address: Your IP address is collected when you visit our site for fraud prevention, geolocation, and analytics.
+## Usage Data: We track user interactions on our site, including pages visited, time spent, and links clicked for performance optimization.
+## Transaction Data: Payment information is collected for processing transactions (Note: Financial data is encrypted and stored by our payment processor).
+
+# User Rights
+## In compliance with global privacy laws, users have the following rights regarding their data:
+User_Rights: Access, Correction, Deletion, Portability, Restriction, Objection
+
+## Access: Users can request access to the data we store about them.
+## Correction: Users can request that incorrect or incomplete data be updated.
+## Deletion: Users have the right to request the deletion of their data (with exceptions as required by law).
+## Portability: Users can request a copy of their data in a machine-readable format.
+## Restriction: Users can request that we limit the use of their personal data under specific circumstances.
+## Objection: Users have the right to object to the processing of their data for marketing purposes or under certain legal grounds.
+
+# Data Sharing
+## We share your data with the following third parties for specific purposes:
+Data_Sharing: Service Providers, Payment Processors, Marketing Partners, Analytics Providers, Law Enforcement (when required)
+
+## Service Providers
+## We share data with the following third-party service providers that help us operate our website and provide various services to our users. These providers process data on our behalf to ensure that our website and services function efficiently.
+
+1. **Amazon Web Services (AWS) (https://aws.amazon.com)**
+   - Purpose: Provides cloud hosting and infrastructure services for our website and databases. AWS securely stores and processes our data in compliance with industry standards.
+   - Data Shared: Server logs, anonymized IP addresses, website files, databases.
+   - Compliance: AWS complies with ISO 27001, SOC 1/2/3, and GDPR standards for data security and privacy.
+
+2. **Cloudflare (https://www.cloudflare.com)**
+   - Purpose: Web performance and security service, including DDoS protection, content delivery network (CDN), and web application firewall (WAF). Cloudflare ensures our site remains available and secure.
+   - Data Shared: Anonymized IP addresses, server logs.
+   - Compliance: Cloudflare complies with ISO 27001 and GDPR for data security.
+
+3. **SendGrid (https://sendgrid.com)**
+   - Purpose: Provides email delivery services for transactional and marketing emails (e.g., password resets, newsletters). Ensures that emails are reliably delivered to users.
+   - Data Shared: Email addresses, message content, IP addresses.
+   - Compliance: SendGrid is compliant with GDPR, SOC 2, and ISO 27001 for data privacy and security.
+
+4. **WordPress VIP (https://wpvip.com)**
+   - Purpose: Managed hosting service for WordPress websites. WordPress VIP hosts our website content, ensuring its availability and security.
+   - Data Shared: Website content, user session data, comments, post metadata.
+   - Compliance: WordPress VIP is GDPR-compliant and follows industry-leading security practices.
+
+5. **Dropbox (https://www.dropbox.com)**
+   - Purpose: Used for storing and sharing documents internally for business purposes. Dropbox ensures that files are stored securely and accessible to authorized personnel.
+   - Data Shared: Internal documents, encrypted user data for backup.
+   - Compliance: Dropbox is ISO 27001 and SOC 2/3 compliant.
+
+## Payment Processors
+## We share financial data with the following payment processors to securely process transactions on our website. These processors handle sensitive payment data, such as credit card information, in compliance with global security standards.
+
+1. **Stripe (https://stripe.com)**
+   - Purpose: Processes credit card payments and securely stores payment information. Stripe ensures secure and compliant handling of financial transactions.
+   - Data Shared: Payment information (credit card details), billing address, transaction history.
+   - Compliance: Stripe is PCI-DSS Level 1 certified, ensuring top-tier security for payment processing. Stripe also complies with GDPR and CCPA.
+
+2. **PayPal (https://www.paypal.com)**
+   - Purpose: Provides a secure platform for processing online payments and handling transactions. Users can pay directly through their PayPal accounts or via credit/debit cards.
+   - Data Shared: Payment information, transaction ID, billing address, PayPal account ID.
+   - Compliance: PayPal is PCI-DSS Level 1 compliant and adheres to GDPR and other global privacy regulations.
+
+3. **Square (https://squareup.com)**
+   - Purpose: Processes point-of-sale and online payments, ensuring secure handling of financial transactions.
+   - Data Shared: Payment card details, transaction data, billing information.
+   - Compliance: Square is PCI-DSS compliant and maintains GDPR adherence for handling European customers' data.
+
+4. **Braintree (https://www.braintreepayments.com)**
+   - Purpose: Payment gateway and processing service, used for credit card and PayPal transactions. Braintree handles secure online payments.
+   - Data Shared: Credit card information, transaction amounts, billing data.
+   - Compliance: Braintree complies with PCI-DSS Level 1 and GDPR for secure payment processing.
+
+## Marketing Partners
+## We share data with the following marketing partners to deliver targeted advertisements based on user behavior. These partners help us display relevant ads across various platforms.
+
+1. **Google Ads (https://ads.google.com)**
+   - Purpose: Delivers personalized advertising through Google's network. Tracks user behavior to display relevant ads based on browsing history and interactions.
+   - Data Shared: Anonymized browsing data, interaction data, Google user ID (if logged in).
+   - Compliance: Google Ads complies with GDPR, CCPA, and other global privacy standards. Users can opt out of personalized ads via Google Ads Settings (https://adssettings.google.com).
+
+2. **Facebook Ads (https://www.facebook.com/business/ads)**
+   - Purpose: Provides personalized ads on Facebook and Instagram based on user interactions with our website and products.
+   - Data Shared: User behavior on the website (e.g., product views, actions taken), anonymized Facebook user ID.
+   - Compliance: Facebook Ads complies with GDPR and CCPA. Users can opt out through Facebook's Ad Preferences (https://www.facebook.com/ads/preferences).
+
+3. **LinkedIn Marketing Solutions (https://business.linkedin.com/marketing-solutions)**
+   - Purpose: Delivers personalized ads on LinkedIn based on user behavior and interests. Tracks interactions on the website for retargeting.
+   - Data Shared: Anonymized LinkedIn user ID, interactions with our content.
+   - Compliance: LinkedIn complies with GDPR and allows users to manage their ad preferences through their Privacy Settings (https://www.linkedin.com/psettings/advertising).
+
+4. **Criteo (https://www.criteo.com)**
+   - Purpose: Provides personalized retargeting ads based on the user’s past interactions with our website and other sites in the Criteo advertising network.
+   - Data Shared: Anonymized browsing data, product interaction data.
+   - Compliance: Criteo adheres to GDPR and offers an opt-out option for personalized ads via their Privacy Policy (https://www.criteo.com/privacy/).
+
+## Analytics Providers
+## We share anonymized data with the following analytics providers to monitor and improve our website's performance. These providers help us understand user behavior and optimize the user experience.
+
+1. **Google Analytics (https://analytics.google.com)**
+   - Purpose: Tracks and reports website traffic, user interactions, and behavior to provide insights into website performance. Data is anonymized where possible.
+   - Data Shared: Anonymized IP address, device type, user interaction data (e.g., page views, clicks).
+   - Compliance: Google Analytics complies with GDPR. Users can opt out of tracking using the Google Analytics Opt-out Browser Add-on (https://tools.google.com/dlpage/gaoptout).
+
+2. **Hotjar (https://www.hotjar.com)**
+   - Purpose: Analyzes user behavior on our website through heatmaps, session recordings, and feedback polls to help improve usability and user experience.
+   - Data Shared: Anonymized user interactions (clicks, scrolls, heatmaps), session data.
+   - Compliance: Hotjar complies with GDPR and offers a Do Not Track opt-out feature (https://www.hotjar.com/legal/compliance/opt-out).
+
+3. **Microsoft Clarity (https://clarity.microsoft.com)**
+   - Purpose: Provides insights into user interactions such as mouse movements, clicks, scrolls, and session duration. Clarity helps us identify user engagement and improve website performance.
+   - Data Shared: Anonymized user behavior data, session recordings.
+   - Compliance: Microsoft Clarity adheres to GDPR and provides users the ability to manage privacy settings via their browser.
+
+4. **Mixpanel (https://mixpanel.com)**
+   - Purpose: Tracks in-depth user interactions and events on the website, such as button clicks, form submissions, and purchase funnels, to improve engagement and conversion rates.
+   - Data Shared: Anonymized interaction data, user journey, and conversion metrics.
+   - Compliance: Mixpanel complies with GDPR and CCPA. Users can opt-out via the service’s privacy settings (https://mixpanel.com/legal/privacy-policy/).
+
+## Law Enforcement: Data may be shared with law enforcement agencies if required by law or to protect our legal rights.
+
+# Data Retention
+## We retain your data for the following periods, based on its type and usage:
+Data_Retention: Personal Information - 5 Years, Transaction Data - 7 Years, Cookies - 1 Year, Usage Data - 2 Years
+
+## Personal Information: Retained for 5 years from the last account activity for customer support and legal compliance.
+## Transaction Data: Retained for 7 years in accordance with tax and legal obligations.
+## Cookies: Retained for 1 year to support session tracking, preferences, and analytics.
+## Usage Data: Retained for 2 years for performance analysis and service improvements.
+
+# Cookies
+## The following types of cookies are used on our site:
+Cookies_Used: Analytical, Functional, Advertising, Session
+
+## Analytical Cookies
+## Purpose: These cookies are used to track user interactions, website traffic, and performance metrics. They help us understand how visitors engage with our site so we can improve usability and content.
+
+1. **Google Analytics (https://analytics.google.com)**
+   - Cookie Name: `_ga`, `_gid`, `_gat`
+   - Purpose: Tracks user behavior, such as page views, time on site, and interactions. Data is anonymized where possible, and retention is set for 26 months.
+   - Data Collected: Anonymized IP address, browsing activity, device type.
+   - Opt-out: Users can opt out via the Google Analytics Opt-out Browser Add-on (https://tools.google.com/dlpage/gaoptout).
+
+2. **Hotjar (https://www.hotjar.com)**
+   - Cookie Name: `_hjIncludedInSample`, `_hjSessionUser`, `_hjID`
+   - Purpose: Collects data about how users interact with individual pages on our site through heatmaps, session recordings, and feedback polls.
+   - Data Collected: Session behavior, scroll depth, click positions, anonymized IP address.
+   - Opt-out: Users can opt-out via Hotjar’s Do Not Track feature (https://www.hotjar.com/legal/compliance/opt-out).
+
+3. **Microsoft Clarity (https://clarity.microsoft.com)**
+   - Cookie Name: `_clck`, `_clsk`
+   - Purpose: Provides insights into user interaction, such as clicks, page scrolls, and session duration, to improve user experience.
+   - Data Collected: Anonymized data on user interactions with the website, heatmaps, session recordings.
+   - Opt-out: Users can opt-out using browser settings or Clarity’s privacy settings.
+
+## Functional Cookies
+## Purpose: Functional cookies store information to remember user preferences, such as language, region, or theme settings. These cookies are essential to providing a customized experience but do not track personal data.
+
+1. **WPML (WordPress Multilingual Plugin) (https://wpml.org)**
+   - Cookie Name: `_icl_current_language`, `_icl_visitor_lang_js`
+   - Purpose: Stores the user’s preferred language settings to ensure the correct language is displayed on subsequent visits.
+   - Data Collected: Language preference.
+   - Retention: 24 hours.
+
+2. **OneTrust (https://www.onetrust.com)**
+   - Cookie Name: `OptanonConsent`, `OptanonAlertBoxClosed`
+   - Purpose: Stores user consent settings for cookies and other tracking mechanisms based on the consent given during their first visit.
+   - Data Collected: User cookie consent preferences.
+   - Retention: 12 months.
+
+3. **Cloudflare (https://www.cloudflare.com)**
+   - Cookie Name: `__cfduid`
+   - Purpose: Used to identify trusted web traffic and to protect against malicious visitors.
+   - Data Collected: Anonymized user session data for security purposes.
+   - Retention: 30 days.
+
+## Advertising Cookies
+## Purpose: These cookies are used to deliver personalized ads and track the performance of advertising campaigns. They help us target ads to users based on their browsing behavior.
+
+1. **Facebook Pixel (https://www.facebook.com/business/help/742478679120153)**
+   - Cookie Name: `_fbp`
+   - Purpose: Tracks user actions on the site to deliver personalized ads and measure the effectiveness of ad campaigns on Facebook and Instagram.
+   - Data Collected: User behavior (e.g., page views, products viewed), anonymized Facebook user ID.
+   - Opt-out: Users can opt-out via Facebook Ad Preferences (https://www.facebook.com/ads/preferences/).
+
+2. **Google Ads (https://ads.google.com)**
+   - Cookie Name: `IDE`, `_gads`, `_gac_`
+   - Purpose: Tracks user interactions with ads, collects data for personalized ad targeting, and measures conversions from Google ads displayed on the site.
+   - Data Collected: User behavior, browsing activity, Google account information if logged in.
+   - Opt-out: Users can opt-out via Google’s Ads Settings (https://adssettings.google.com).
+
+3. **Criteo (https://www.criteo.com)**
+   - Cookie Name: `criteo_id`, `cto_lwid`
+   - Purpose: Provides personalized product recommendations and retargeting ads based on user’s previous interactions on our website and across Criteo’s advertising network.
+   - Data Collected: Anonymized user interactions with products, browsing behavior.
+   - Opt-out: Users can opt-out through Criteo’s Privacy Opt-Out (https://www.criteo.com/privacy/).
+
+4. **LinkedIn Ads (https://www.linkedin.com)**
+   - Cookie Name: `li_sugr`, `UserMatchHistory`
+   - Purpose: Tracks user behavior on the website to deliver personalized ads and measure ad performance for LinkedIn campaigns.
+   - Data Collected: Anonymized LinkedIn user ID, engagement with LinkedIn ads.
+   - Opt-out: Users can manage ad settings via LinkedIn’s Privacy Settings (https://www.linkedin.com/psettings/advertising).
+
+## Session Cookies
+## Purpose: These temporary cookies are necessary for the website to function properly. They help manage user sessions, logins, and form submissions. These cookies do not collect personal data and are automatically deleted when the session ends.
+
+1. **PHP Session Cookie (https://www.php.net)**
+   - Cookie Name: `PHPSESSID`
+   - Purpose: Manages user session across different pages of the website to maintain logged-in status and user-specific interactions.
+   - Data Collected: Temporary session ID, no personal data is stored.
+   - Retention: Deleted when the session ends (browser is closed).
+
+2. **WooCommerce (https://woocommerce.com)**
+   - Cookie Name: `woocommerce_cart_hash`, `woocommerce_items_in_cart`
+   - Purpose: Maintains the contents of the shopping cart for users while browsing the website. No personally identifiable information is stored.
+   - Data Collected: Session ID, cart contents.
+   - Retention: Deleted when the session ends (browser is closed).
+
+3. **WordPress (https://wordpress.org)**
+   - Cookie Name: `wordpress_logged_in_`, `wp-settings-1`
+   - Purpose: Manages the logged-in status for users who have an account on the site, ensuring they remain authenticated across different pages.
+   - Data Collected: Session ID for logged-in users.
+   - Retention: Deleted when the session ends (browser is closed).
+
+# Third-Party Services
+## We use the following third-party services and tools that collect and process data:
+Third_Party_Services: Google Analytics, Facebook Pixel, Stripe, Cloudflare, Mailchimp, Zendesk, AWS (Amazon Web Services), HubSpot, Hotjar, Sentry, ReCAPTCHA, Intercom
+
+## Google Analytics (https://analytics.google.com)
+## Purpose: Tracks user behavior, website traffic, and performance. Data is anonymized where possible. Collects usage data including page views, time spent on pages, and referral sources. Retention period is set to 26 months.
+## Opt-out: Users can install the Google Analytics Opt-out Browser Add-on (https://tools.google.com/dlpage/gaoptout).
+
+## Facebook Pixel (https://www.facebook.com/business/help/742478679120153)
+## Purpose: Tracks user actions on our website for personalized advertising and retargeting across Facebook and Instagram. Collects data on user interactions such as product views and form submissions. 
+## Opt-out: Users can opt-out via Facebook Ad Preferences (https://www.facebook.com/ads/preferences/).
+
+## Stripe (https://stripe.com)
+## Purpose: Processes online payments and securely stores payment information such as credit card details. Data includes transaction details (amount, currency, card type) and customer billing information.
+## Data is encrypted using PCI-compliant standards. We do not store card details on our servers. Stripe’s retention policy complies with local financial regulations (e.g., 7 years for transaction records).
+
+## Cloudflare (https://www.cloudflare.com)
+## Purpose: Provides web performance and security services including DDoS protection and content delivery network (CDN). Collects user IP addresses for security purposes and to ensure site availability. 
+## Data is processed by Cloudflare’s global network. IP addresses are anonymized where required.
+
+## Mailchimp (https://mailchimp.com)
+## Purpose: Email marketing platform used to send newsletters and promotional emails. Stores email addresses and subscription preferences for users who opt-in to our mailing list.
+## Data is stored on Mailchimp’s servers and is used exclusively for our email communications. Users can unsubscribe via the link in any email or by contacting us directly.
+
+## Zendesk (https://www.zendesk.com)
+## Purpose: Provides customer support services, including ticketing and live chat functionality. Collects user email addresses, conversation logs, and support ticket history for resolving customer inquiries.
+## Data is retained for 5 years to provide ongoing support. Users can request their conversation history be deleted.
+
+## AWS (Amazon Web Services) (https://aws.amazon.com)
+## Purpose: Cloud hosting provider that stores and processes website data. Our website and databases are hosted on AWS servers located in [Region]. AWS ensures compliance with industry-leading security standards.
+## AWS collects server logs and error reports that may contain user IP addresses, but data is anonymized. Backups of all stored data are encrypted.
+
+## HubSpot (https://www.hubspot.com)
+## Purpose: CRM and marketing automation tool used to track customer interactions, email engagement, and website behavior. Collects user data such as names, email addresses, and engagement metrics (e.g., email opens and click rates).
+## Retention: Data is retained indefinitely for marketing purposes unless users request deletion.
+
+## Hotjar (https://www.hotjar.com)
+## Purpose: Tracks and analyzes user behavior on our website through heatmaps, session recordings, and feedback polls. Collects usage data like mouse movements, scrolling behavior, and clicks.
+## Hotjar anonymizes IP addresses and stores data for up to 365 days.
+
+## Sentry (https://sentry.io)
+## Purpose: Monitors website errors and performance issues. Captures error details such as user actions leading to errors, browser information, and IP addresses for diagnostic purposes.
+## Data is anonymized for error tracking and retained for up to 90 days.
+
+## Google reCAPTCHA (https://www.google.com/recaptcha)
+## Purpose: Protects our site from spam and abuse by distinguishing between human and bot traffic. Collects user interaction data (mouse movements, keypresses) to determine human behavior.
+## Users are subject to Google’s privacy policy (https://policies.google.com/privacy) when interacting with reCAPTCHA.
+
+## Intercom (https://www.intercom.com)
+## Purpose: Provides live chat and in-app messaging services. Collects data on user interactions, such as email addresses, conversation logs, and chat history, to provide customer support.
+## Data is stored for 3 years or until the user requests deletion.
+
+# Data Security
+## We implement the following security measures to protect user data:
+Data_Security: SSL Encryption, Two-Factor Authentication, Data Minimization, Regular Security Audits
+
+## SSL Encryption: All data transmitted between your browser and our servers is encrypted using SSL/TLS protocols.
+## Two-Factor Authentication: Enabled for account access to enhance security for user accounts.
+## Data Minimization: We collect only the data necessary to provide our services.
+## Regular Security Audits: We conduct quarterly security audits to identify and address potential vulnerabilities.
+
+# Breach Notification
+## In the event of a data breach, we will notify affected users:
+Breach_Notification: Users Notified within 72 Hours via Email, Public Announcement if Required
+
+# Contact Information
+## For privacy-related inquiries or to exercise your data rights, please contact us at:
+Contact: privacy@examplecorp.com
